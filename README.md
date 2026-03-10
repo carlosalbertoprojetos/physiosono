@@ -2,7 +2,7 @@
 
 Este repositório apresenta um projeto de estudo que explora a **reutilização de templates gratuitos baseados em Bootstrap**. O objetivo principal é demonstrar como personalizar e adaptar esses templates para diferentes finalidades acadêmicas e experimentais.
 
-## 💡 **Sobre o Projeto**
+## **Sobre o Projeto**
 
 O projeto **PhysioSono** foi desenvolvido exclusivamente com fins educacionais e é baseado em um template gratuito de **Bootstrap**. A proposta é:
 
@@ -12,7 +12,7 @@ O projeto **PhysioSono** foi desenvolvido exclusivamente com fins educacionais e
 
 Este projeto **não possui intenções comerciais** e foi criado apenas para aprendizado.
 
-## 🛠️ **Tecnologias Utilizadas**
+## **Tecnologias Utilizadas**
 
 - **Bootstrap**: Framework CSS para design responsivo.
 - **HTML5** e **CSS3**: Base estrutural e estilização adicional.
@@ -20,7 +20,7 @@ Este projeto **não possui intenções comerciais** e foi criado apenas para apr
 - **FontAwesome**: Ícones utilizados no layout.
 - **Google Fonts**: Fontes personalizadas para um design moderno.
 
-## 🚀 **Como Utilizar**
+## **Como Utilizar**
 
 ### 1. Clone o Repositório
 
@@ -40,21 +40,20 @@ Para ajustar o design ou incluir novas funcionalidades:
 - Modifique os arquivos CSS e HTML diretamente.
 - Adicione scripts JavaScript em `assets/js/`.
 
-## 🌟 **Objetivos do Estudo**
+## **Objetivos do Estudo**
 
 - **Entendimento do Bootstrap**: Aprender a reutilizar componentes como cards, grids e navegações.
 - **Estudo de Layout Responsivo**: Analisar como os templates se adaptam a diferentes tamanhos de tela.
 - **Prática de Customização**: Adicionar identidade visual ao template por meio de estilização personalizada.
 
-## 📚 **Resultados Esperados**
+## **Resultados Esperados**
 
 O projeto visa consolidar conhecimentos sobre o uso de ferramentas como o Bootstrap, preparando desenvolvedores para criar layouts rápidos e eficientes em projetos reais.
 
-## 📄 **Licença**
+## **Licença**
 
 Este projeto segue a [Licença MIT](LICENSE) e é um trabalho acadêmico baseado em templates de uso livre. O uso de templates gratuitos respeita os direitos e licenças de seus respectivos autores.
 
 ---
-
-💻 Desenvolvido por [Carlos Alberto Medeiros](https://www.linkedin.com/in/carlos-alberto-medeiros-29aa6258/)  
-🌟 Explorando a simplicidade e o poder do Bootstrap para projetos educacionais! 
+ Desenvolvido por [Carlos Alberto Medeiros](https://www.linkedin.com/in/carlos-alberto-medeiros-29aa6258/)  
+ Explorando a simplicidade e o poder do Bootstrap para projetos educacionais! 
